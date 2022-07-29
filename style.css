@@ -18,6 +18,7 @@ main{
 .image{
     border-top-left-radius:  10px;
     border-top-right-radius:  10px;
+    width: 300px
 }
 
 .order{
@@ -36,15 +37,20 @@ main{
     
 }
 .pay{
-    margin-left: 7px;
+    margin-left: 50px;
+    font-size: 15px;
+    margin-top: -15px;
 }
 .dolar{
+    font-size: 10px;
     margin-left: 50px;
-    margin-top: -15px;
+    margin-top: -10px;
     color: rgb(143, 206, 248)
+    
+    
 }
 .change{
-    margin-left: 38px;
+    margin-left: 50px;
 }
 .border{
     background-color: rgb(245, 243, 247);
