@@ -1,0 +1,73 @@
+body{
+    background-image: url(pattern-background-desktop.svg);
+    place-content: center;
+    margin: 100px;
+    padding: 0px;
+    display: grid;
+    
+}
+
+
+main{
+    width: 300px;
+    background-color: white;
+    border-radius: 10px;
+    height: 460px;
+}
+
+.image{
+    border-top-left-radius:  10px;
+    border-top-right-radius:  10px;
+}
+
+.order{
+    font-size: 20px;
+    text-align: center;
+}
+
+.text{
+    text-align: center;
+    font-size: small;
+}
+
+.icon{
+    margin-left: 5px;
+    margin-bottom: -20px
+    
+}
+.pay{
+    margin-left: 7px;
+}
+.dolar{
+    margin-left: 50px;
+    margin-top: -15px;
+    color: rgb(143, 206, 248)
+}
+.change{
+    margin-left: 38px;
+}
+.border{
+    background-color: rgb(245, 243, 247);
+    width: 250px;
+    margin-left: 25px;
+    border-radius: 10px;
+    height: 50px;
+    padding-top: 10px;
+}
+
+.button{
+    margin-left: 25px;
+    width: 250px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    
+}
+
+.order1{
+    text-align: center;
+    font-size: small;
+    
+}
